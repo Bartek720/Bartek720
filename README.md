@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Bartek 👋
 
-<!--
-**Bartek720/Bartek720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & AI student focused on machine learning, simulation, and decision-making systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### ♟️ Hex AI (MCTS / AlphaZero-style)
+AI agent for the board game Hex using Monte Carlo Tree Search and self-play.
+
+👉 https://github.com/Bartek720/hex-mcts-alphazero
+
+---
+
+### 🌍 Planetary Motion Simulation
+Physics-based simulation of planetary systems.
+
+👉 https://github.com/Bartek720/planetary-motion-simulation
+
+---
+
+## 🧠 Interests
+- Reinforcement Learning
+- Search Algorithms (MCTS)
+- Simulations & Modeling
+- Machine Learning
+
+---
+
+## 🛠️ Tech Stack
+- Java
+- Python 
+- Sql
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/bartlomiej-kaczor-a93657384/
